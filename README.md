@@ -55,6 +55,12 @@ Ensure you have the following installed:
   - Right-click on a test and select **Debug** to run it in debug mode.
   - During debugging, console outputs will appear in the **Output** window under the **Debug** section.
   - To view outputs after running tests, select **Tests** in the "Show output from" drop-down list at the top of the **Output** window.
+ 
+---
+
+<br><br><br>
+
+---
 
 ## Aperçu
 
