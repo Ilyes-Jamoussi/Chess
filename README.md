@@ -58,6 +58,10 @@ Ensure you have the following installed:
 
 Ce projet d'échecs est une application C++ avec une interface graphique basée sur Qt. Il permet de jouer aux échecs, en affichant les coups valides des pièces et en marquant ceux invalides en rouge. Le projet prend actuellement en charge uniquement les pièces suivantes : fou, roi et tour. Vous pouvez jouer à des parties préconfigurées telles que **Topalov contre Polgar (2008)**, **Budnikov contre Novik (1991)** et **Vladimorov contre Palatnik (1977)**.
 
+<div align="center">
+    <img src="chess-demo.gif" alt="Chess Game Demo" width="450"><br><br>
+</div>
+
 ## Prérequis
 
 Assurez-vous d'avoir les éléments suivants installés :
