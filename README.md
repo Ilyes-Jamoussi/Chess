@@ -13,7 +13,9 @@
 
 This Chess Project is a C++ application with a Qt-based graphical interface. It lets you play chess, showing valid moves for pieces and marking invalid ones in red. The project currently supports only the following chess pieces: bishop, king, and rook. You can play preconfigured games such as **Topalov vs Polgar (2008)**, **Budnikov vs Novik (1991)**, and **Vladimorov vs Palatnik (1977)**.
 
-![Gameplay Demo](chess-demo.gif "Demonstration of the Chess Project")
+<div align="center">
+    <img src="chess-demo.gif" alt="Chess Game Demo" width="550"><br><br>
+</div>
 
 ## Prerequisites
 
@@ -59,7 +61,7 @@ Ensure you have the following installed:
 Ce projet d'échecs est une application C++ avec une interface graphique basée sur Qt. Il permet de jouer aux échecs, en affichant les coups valides des pièces et en marquant ceux invalides en rouge. Le projet prend actuellement en charge uniquement les pièces suivantes : fou, roi et tour. Vous pouvez jouer à des parties préconfigurées telles que **Topalov contre Polgar (2008)**, **Budnikov contre Novik (1991)** et **Vladimorov contre Palatnik (1977)**.
 
 <div align="center">
-    <img src="chess-demo.gif" alt="Chess Game Demo" width="450"><br><br>
+    <img src="chess-demo.gif" alt="Chess Game Demo" width="550"><br><br>
 </div>
 
 ## Prérequis
