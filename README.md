@@ -1,3 +1,14 @@
+# Chess
+
+<div align="center">
+  
+  [<img src="https://img.shields.io/badge/-English-blue?style=for-the-badge">](#overview)
+  [<img src="https://img.shields.io/badge/-Français-green?style=for-the-badge">](#aperçu)
+
+</div>
+
+---
+
 ## Overview
 
 This Chess Project is a C++ application with a Qt-based graphical interface. It lets you play chess, showing valid moves for pieces and marking invalid ones in red. The project currently supports only the following chess pieces: bishop, king, and rook. You can play preconfigured games such as **Topalov vs Polgar (2008)**, **Budnikov vs Novik (1991)**, and **Vladimorov vs Palatnik (1977)**.
